@@ -7,7 +7,3 @@ def number_keys(a_dictionary):
         num += 1
 
     return (num)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Term
