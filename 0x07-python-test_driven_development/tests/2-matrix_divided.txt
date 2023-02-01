@@ -1,5 +1,4 @@
 # 2-matrix_divided.txt
-# Belema Acheye Obuborosa
 
 ==============================
 How to Use 2-matrix_divided.py
